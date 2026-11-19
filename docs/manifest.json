@@ -1,0 +1,8 @@
+{
+  "_comment": "HOW TO EDIT: 1) set repo.url + branch. 2) Each section = one folder. 3) Each file path is relative to the repo root (no leading ./). Order here = order in the sidebar.",
+  "repo": { "url": "https://github.com/them0rtys/qt-creator-cheatsheet", "branch": "main" },
+  "sections": [
+    { "folder": "01-getting-started", "files": [ { "path": "docs/01-getting-started/README.md", "title": "Getting Started" } ] },
+    { "folder": "templates", "files": [ { "path": "templates/README_TEMPLATE.md", "title": "README Template" } ] }
+  ]
+}
