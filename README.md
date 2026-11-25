@@ -2,9 +2,6 @@
 
 An interactive light and dark Qt Creator cheat sheet for students, beginners, and developers who want to keep basic workflows, keyboard shortcuts, and solutions to common errors close at hand.
 
-**Web:** [qt-cheatsheet.them0rtys.xyz](https://qt-cheatsheet.them0rtys.xyz)  
-**Zdrojový kód:** [github.com/them0rtys/qt-creator-cheatsheet](https://github.com/them0rtys/qt-creator-cheatsheet)
-
 ## Online and local usage
 
 The project is a purely static website. It does not require Node.js, package installation, or a build step.
