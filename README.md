@@ -15,6 +15,8 @@ Open:
 
 <https://qt-cheatsheet.them0rtys.xyz>
 
+The root `.nojekyll` file is required for GitHub Pages to serve lesson `.md` files as-is; the site loads them directly in the browser.
+
 ### Running locally
 
 In the repository root, start any static server. For example, with Python:
